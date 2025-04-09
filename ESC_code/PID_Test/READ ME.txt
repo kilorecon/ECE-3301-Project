@@ -1,0 +1,3 @@
+To use the Code for a TVC mount on the rocket( thrust vector control), you will need a gimbal design, 2 servos, an Arduino nano, and batteries( including wires, capacitors, resistors, etc..)
+Wire it using the schematics on the drive in the rocket projects.
+Best of luck!!
